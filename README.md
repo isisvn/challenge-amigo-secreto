@@ -9,8 +9,8 @@
 ✔️ Interfaz simple y amigable.  
 
 ## 🖥️ Vista Previa  
-<img src="https://imgur.com/a/jdVunhT" alt="Vista previa de la app Amigo Secreto" width="600"> 
-![Image](https://github.com/user-attachments/assets/bbfdd768-d963-4e4f-8a21-e72ca783e69e)
+
+(https://github.com/user-attachments/assets/bbfdd768-d963-4e4f-8a21-e72ca783e69e)
 
 
 
